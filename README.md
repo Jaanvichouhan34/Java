@@ -67,3 +67,9 @@ This repository is designed to help students and developers learn Java in a stru
 - HashMap
 - Queue
 - Stack
+
+
+### 🔹 Exception Handling
+- try-catch
+- throw & throws
+- Custom Exceptions
