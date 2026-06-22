@@ -7,3 +7,11 @@ A comprehensive repository for learning Java from beginner to advanced level. Th
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
+
+## 📖 About
+
+This repository is designed to help students and developers learn Java in a structured manner. Topics are organized from basic to advanced concepts with practical examples and exercises.
+
+---
+
+## 📂 Topics Covered
