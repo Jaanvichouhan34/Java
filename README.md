@@ -22,3 +22,9 @@ This repository is designed to help students and developers learn Java in a stru
 - Operators
 - Input & Output
 - Type Casting
+
+### 🔹 Control Statements
+- if, if-else
+- Nested if
+- switch
+- Ternary Operator
