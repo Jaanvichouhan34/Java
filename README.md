@@ -80,12 +80,6 @@ java Main
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-
 ## ⭐ Show Your Support
 
 If you find this repository helpful, please consider giving it a ⭐.
