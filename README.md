@@ -46,3 +46,9 @@ This repository is designed to help students and developers learn Java in a stru
 - 2D Arrays
 - Array Operations
 
+### 🔹 Strings
+- String Class
+- String Methods
+- StringBuilder
+- String Manipulation
+
