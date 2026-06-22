@@ -73,3 +73,8 @@ This repository is designed to help students and developers learn Java in a stru
 - try-catch
 - throw & throws
 - Custom Exceptions
+
+### 🔹 File Handling
+- Reading Files
+- Writing Files
+- File Operations
