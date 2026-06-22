@@ -68,7 +68,6 @@ This repository is designed to help students and developers learn Java in a stru
 - Queue
 - Stack
 
-
 ### 🔹 Exception Handling
 - try-catch
 - throw & throws
@@ -78,3 +77,72 @@ This repository is designed to help students and developers learn Java in a stru
 - Reading Files
 - Writing Files
 - File Operations
+
+### 🔹 Advanced Java
+- Generics
+- Multithreading
+- Lambda Expressions
+- Stream API
+
+### 🔹 Problem Solving
+- Recursion
+- Sorting Algorithms
+- Basic DSA Concepts
+
+---
+
+## 🎯 Learning Outcomes
+
+After completing this repository, you will be able to:
+
+✅ Write Java programs confidently  
+✅ Understand OOP concepts  
+✅ Use Collections Framework effectively  
+✅ Handle exceptions and files  
+✅ Build a strong foundation for DSA  
+✅ Prepare for coding interviews
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- IntelliJ IDEA / VS Code
+- Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/java-zero-to-advanced.git
+```
+
+### Navigate to the Project
+
+```bash
+cd java-zero-to-advanced
+```
+
+### Compile and Run
+
+```bash
+javac Main.java
+java Main
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
+
+---
+
+## ⭐ Show Your Support
+
+If you find this repository helpful, please consider giving it a ⭐.
+
+Happy Coding! 🚀
