@@ -41,3 +41,8 @@ This repository is designed to help students and developers learn Java in a stru
 - Return Types
 - Method Overloading
 
+### 🔹 Arrays
+- 1D Arrays
+- 2D Arrays
+- Array Operations
+
