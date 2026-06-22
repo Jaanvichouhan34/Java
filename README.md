@@ -35,3 +35,9 @@ This repository is designed to help students and developers learn Java in a stru
 - do-while Loop
 - Nested Loops
 
+### 🔹 Methods
+- Method Declaration
+- Parameters & Arguments
+- Return Types
+- Method Overloading
+
