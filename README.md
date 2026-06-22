@@ -52,3 +52,11 @@ This repository is designed to help students and developers learn Java in a stru
 - StringBuilder
 - String Manipulation
 
+### 🔹 Object-Oriented Programming
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+
