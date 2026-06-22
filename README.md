@@ -1,32 +1,9 @@
-# ☕ Java for DSA – Complete Guide
+# ☕ Java Zero to Advanced
 
-This repository contains a structured and beginner-friendly revision of **Java programming**, focused on **Data Structures & Algorithms**.
+A comprehensive repository for learning Java from beginner to advanced level. This repository contains well-organized examples, notes, and practice programs covering Core Java concepts.
 
-## 📌 Why this repo?
-- Quick Java revision for DSA
-- Clean examples with comments
-- Interview & placement oriented
-- Suitable for beginners & intermediates
-
-## 🧠 Topics Covered
-- Java Basics
-- Control Statements
-- Methods
-- Arrays & Strings
-- Recursion
-- Sorting Algorithms
-- OOPs Concepts
-- Collections Framework
-- Time & Space Complexity
-
-## 🛠 Tech Stack
-- Java
-- VS Code
-- Git
-
-## 🚀 Goal
-To build strong Java fundamentals before diving deep into DSA and competitive programming.
+![Java](https://img.shields.io/badge/Java-Programming-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
-
-⭐ If you find this useful, give it a star!
