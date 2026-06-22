@@ -15,3 +15,10 @@ This repository is designed to help students and developers learn Java in a stru
 ---
 
 ## 📂 Topics Covered
+
+### 🔹 Java Basics
+- Introduction to Java
+- Variables & Data Types
+- Operators
+- Input & Output
+- Type Casting
