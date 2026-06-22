@@ -60,3 +60,10 @@ This repository is designed to help students and developers learn Java in a stru
 - Abstraction
 - Encapsulation
 
+### 🔹 Collections Framework
+- ArrayList
+- LinkedList
+- HashSet
+- HashMap
+- Queue
+- Stack
