@@ -16,78 +16,22 @@ This repository is designed to help students and developers learn Java in a stru
 
 ## 📂 Topics Covered
 
-### 🔹 Java Basics
-- Introduction to Java
-- Variables & Data Types
-- Operators
-- Input & Output
-- Type Casting
+| Module | Topics |
+|---------|---------|
+| 🟢 Basics | Introduction to Java, Variables, Data Types, Operators, Input & Output, Type Casting |
+| 🟡 Control Statements | if, if-else, Nested if, switch, Ternary Operator |
+| 🔄 Loops | for Loop, while Loop, do-while Loop, Nested Loops |
+| ⚙️ Methods | Method Declaration, Parameters, Arguments, Return Types, Method Overloading |
+| 📊 Arrays | 1D Arrays, 2D Arrays, Array Traversal, Array Operations |
+| 🔤 Strings | String Class, String Methods, StringBuilder, String Manipulation |
+| 🏗️ OOP | Classes & Objects, Constructors, Inheritance, Polymorphism, Abstraction, Encapsulation |
+| 📚 Collections Framework | ArrayList, LinkedList, HashSet, HashMap, Queue, Stack |
+| ⚠️ Exception Handling | try-catch, throw, throws, Custom Exceptions |
+| 📁 File Handling | Reading Files, Writing Files, File Operations |
+| 🚀 Advanced Java | Generics, Multithreading, Lambda Expressions, Stream API |
+| 🧠 Problem Solving | Recursion, Sorting Algorithms, Searching Algorithms, Basic DSA Concepts |
+| 📈 Complexity Analysis | Time Complexity, Space Complexity, Big O Notation |
 
-### 🔹 Control Statements
-- if, if-else
-- Nested if
-- switch
-- Ternary Operator
-
-### 🔹 Loops
-- for Loop
-- while Loop
-- do-while Loop
-- Nested Loops
-
-### 🔹 Methods
-- Method Declaration
-- Parameters & Arguments
-- Return Types
-- Method Overloading
-
-### 🔹 Arrays
-- 1D Arrays
-- 2D Arrays
-- Array Operations
-
-### 🔹 Strings
-- String Class
-- String Methods
-- StringBuilder
-- String Manipulation
-
-### 🔹 Object-Oriented Programming
-- Classes & Objects
-- Constructors
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
-
-### 🔹 Collections Framework
-- ArrayList
-- LinkedList
-- HashSet
-- HashMap
-- Queue
-- Stack
-
-### 🔹 Exception Handling
-- try-catch
-- throw & throws
-- Custom Exceptions
-
-### 🔹 File Handling
-- Reading Files
-- Writing Files
-- File Operations
-
-### 🔹 Advanced Java
-- Generics
-- Multithreading
-- Lambda Expressions
-- Stream API
-
-### 🔹 Problem Solving
-- Recursion
-- Sorting Algorithms
-- Basic DSA Concepts
 
 ---
 
