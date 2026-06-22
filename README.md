@@ -28,3 +28,10 @@ This repository is designed to help students and developers learn Java in a stru
 - Nested if
 - switch
 - Ternary Operator
+
+### 🔹 Loops
+- for Loop
+- while Loop
+- do-while Loop
+- Nested Loops
+
